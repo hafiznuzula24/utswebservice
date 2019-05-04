@@ -1,0 +1,31 @@
+[
+{
+    "nama"  : "hafiz",
+    "umur"  : 22,
+    "nrp"   : "140155200",
+    "lulus" :  true,
+    "hobby" : [
+        "coding",
+        "gamong"
+        
+    ],
+    "pembimbing": {
+        "pembimbing1"   : "Sutapa",
+        "pembimbing2"   : "Eri Zuliarso  " 
+    } 
+} ,
+{
+    "nama"  : "budi",
+    "umur"  : 12,
+    "nrp"   : "140155201",
+    "lulus" :  true,
+    "hobby" : [
+        "coding",
+        "gambar"
+    ],
+    "pembimbing": {
+        "pembimbing1"   : "Sutapa",
+        "pembimbing2"   : "Eri Zuliarso  " 
+    } 
+}  
+]
